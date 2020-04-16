@@ -25,3 +25,6 @@ In his beard lived three <span style="color:red">cardinals</span>.
 >[!NOTE]
    >
    >This is note text.
+
+>[!NOTE]
+>This is a standard NOTE block.
