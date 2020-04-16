@@ -14,3 +14,14 @@ Here is some more text in a paragraph.
 
 Let's insert a line break.  
 **Boom!** this should be on another line.
+
+In his beard lived three <span style="color:red">cardinals</span>.  
+
+<section class="callout-blue">
+  <h3>Tip</h3>
+  <p>Just add class="callout-yellow". It's really that easy.</p>
+</section>
+
+>[!NOTE]
+   >
+   >This is note text.
