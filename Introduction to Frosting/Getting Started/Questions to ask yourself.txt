@@ -19,3 +19,7 @@ In his beard lived three <span style="color:red">cardinals</span>.
   <h3>Tip</h3>
   <p>Just add class="callout-yellow". It's really that easy.</p>
 </section>
+
+>[!NOTE]
+   >
+   >This is note text.
