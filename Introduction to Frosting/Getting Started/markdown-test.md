@@ -13,4 +13,4 @@ Here is some text in a paragraph.
 Here is some more text in a paragraph.
 
 Let's insert a line break.  
-Boom! this should be on another line.
+**Boom!** this should be on another line.

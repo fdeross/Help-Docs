@@ -1,0 +1,38 @@
+/** TEXT */
+body {
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    color: #484848;
+}
+
+p{
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+strong {
+  font-weight: 500;
+  color: #212121;
+}
+
+/** SEARCH BAR */
+#searchBar .search-query {
+	background: #fff;
+	border-color: transparent;
+	box-shadow: none;
+	color: #777;
+}
+#searchBar button {
+	background: #4B7BEC;
+	border-color: transparent;
+	color: #fff;
+}
+#searchBar button:hover {
+	background: #3867D6;
+	border-color: transparent;
+	color: #fff;
+}
