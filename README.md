@@ -1,11 +1,9 @@
 - [Article Structure](#article-structure)
-    - [Titles](#titles)
-    - [Introductions](#introductions)
-    - [Table of contents](#table-of-contents)
+- [Notes](#notes)
 
 ## Article Structure  
 
-Complex topics can require long explanations, but sometimes more specific content is more helpful. Break out long articles that cover multiple, related topics, in to separate articles when appropriate. On the flip side, long-form content is helpful for things like Getting Started guides and knowledge clusters, where lots of relevant content is packed in to one article.  
+Complex topics can require long explanations, but sometimes more specific content is more helpful. Break out long articles that cover multiple, related topics, into separate articles when appropriate. On the flip side, long-form content is helpful for things like Getting Started guides and knowledge clusters, where lots of relevant content is packed into one article.  
 
 Creating a scannable, neatly organized article is essential to keeping readers on task. Each Docs article contains the same content structure:  
 
@@ -23,7 +21,7 @@ Create simple, specific article titles. Readers should have a clear idea of what
 - Capitalize the names of Help Scout-specific features. “Workflows, Beacon, Docs”
 - Capitalize the names of third-party applications.
 - Avoid nouns, verbs, and adjectives ending in -ing. “Manage Account Security” not “Managing Account Security”
-- Titles are always simple statements, never questions. “Edit Customer Profiles” not “How do I edit customer profiles?”
+- Titles are always simple statements, never questions. “Edit Customer Profiles” or "How to Edit Customer Profiles" not “How do I edit customer profiles?”
 
 #### Introductions
 
@@ -36,3 +34,15 @@ A table of contents provides the reader a quick way to find what they’re looki
 - Use Heading 4 for the In this article title text.
 - List article sections using an unordered (bulleted) list.
 - Add anchor links to each bullet point.
+
+## Notes
+
+#### Requirements Section
+
+- Use h3 for the individual requirements then explain it as p below
+
+#### Best Practices
+
+- Use the word 'recommendations' like "Recommendations for creating the perfect bread listing"
+- Use h3 and p to explain the significance or unbulleted lists without explanation for recommendations. 
+

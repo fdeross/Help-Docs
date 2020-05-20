@@ -7,12 +7,16 @@ You can use Frosting to quickly build an online shop where new and existing cust
 - **By the end of step 7:** You will be ready to take orders.
 
 <br>
+<section class="callout-blue">
+  <h3>ON THIS PAGE</h3>
+  <p>
 
-> #### On this page:
-> - [Before you start](#before-you-start)
-> - [First Steps](#first-steps)
-> - [](#)
+- [Before you start](#before-you-start)
+- [First steps](#first-steps)
+- [Launch your shop](#launch-your-shop)
 
+  </p>
+</section>
 <br>  
 
 ### Before you start
@@ -30,4 +34,14 @@ While we would like for every bakery or home baker to join Frosting, we are requ
 
 ### Launch your shop
 
-6.  
+<dl>
+<dt>1</dt>
+<dd>Consult a qualified professional on the legality of selling baked goods online in your city and state.</dd>
+<dt>2</dt>
+<dd>Read and think over the *Questions to ask yourself* document. Having answers to these questions will make the entire process of opening and operating your store much easier.</dd>
+</dl>
+
+<section class="callout-yellow">
+<h3>This is a yellow callout</h3>
+<p>Just add class="callout-yellow". It's really that easy.</p>
+</section>

@@ -11,12 +11,3 @@ Moving your bakery online can be a challenging and confusing journey. To help yo
 2. How much time do you need between when a customer places an order and the pickup date to be able to reliably fulfill an order?  
 
 3. How far in the future do you want to allow a customer to place an order?  
-
-<section class="callout-yellow">
-  <h3>This is a yellow callout</h3>
-  <p>Just add class="callout-yellow". It's really that easy.</p>
-</section>
-
-!!! note
-
-    this is some note body

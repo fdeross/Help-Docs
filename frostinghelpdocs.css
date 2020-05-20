@@ -1,8 +1,7 @@
 /** TEXT */
 body {
-    font-family: 'Open Sans', sans-serif;
-    -webkit-font-smoothing: antialiased;
-    color: #484848;
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;    webkit-font-smoothing: antialiased;
+    color: #333333;
 }
 
 #fullArticle p,
@@ -13,17 +12,37 @@ body {
 #fullArticle blockquote,
 #fullArticle dd,
 #fullArticle table{
-    font-size: 18px;
+    font-size: 16px;
 }
 
 h1,
-h2,
-h3,
-h4,
 h5,
 strong {
-  font-weight: 500;
-  color: #212121;
+  font-weight: 600 !important;
+  color: #212121 !important;
+}
+
+h2,
+h3,
+h4 {
+	font-weight: 500 !important;
+	color: #212121 !important;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 21px;
 }
 
 /** SEARCH BAR */
@@ -42,4 +61,8 @@ strong {
 	background: #3867D6;
 	border-color: transparent;
 	color: #fff;
+}
+
+#fullArticle dt {
+	background: #3197D1;
 }
