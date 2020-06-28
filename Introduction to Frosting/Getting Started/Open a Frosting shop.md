@@ -22,7 +22,7 @@ You can use Frosting to quickly build an online shop where new and existing cust
 ### Before you start
 
 1. Consult a qualified professional on the legality of selling baked goods online in your city and state.  
-2. Read and think over the *Questions to ask yourself* document. Having answers to these questions will make the entire process of opening and operating your store much easier.
+2. Read and think over the *What questions should I consider before opening a Frosting shop?* document. Having answers to these questions will make the entire process of opening and operating your store much easier.
 
 While we would like for every bakery or home baker to join Frosting, we are required to comply with state and local laws that restrict selling baked goods online. By accepting our *Terms of Service* and activating your Frosting shop, you certify that you will follow your local laws and regulations.
 
@@ -38,7 +38,7 @@ While we would like for every bakery or home baker to join Frosting, we are requ
 <dt>1</dt>
 <dd>Consult a qualified professional on the legality of selling baked goods online in your city and state.</dd>
 <dt>2</dt>
-<dd>Read and think over the *Questions to ask yourself* document. Having answers to these questions will make the entire process of opening and operating your store much easier.</dd>
+<dd>Read and think over the *What questions should I consider before opening a Frosting shop?* document. Having answers to these questions will make the entire process of opening and operating your store much easier.</dd>
 </dl>
 
 <section class="callout-yellow">
