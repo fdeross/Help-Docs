@@ -212,65 +212,126 @@ body {
   /* Category: icons */
   
   #category-24 {
-	background-image: url('https://frosting-public-helpdocsfiles.s3.amazonaws.com/gettingstarted.svg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/getting-started.svg');
   }
   
   #category-26 {
-	background-image: url('https://frosting-public-helpdocsfiles.s3.amazonaws.com/howfrostingworks.svg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/how-frosting-works.svg');
   }
   
-  #category-108 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-tools.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/community-standards.svg');
   }
   
-  #category-465 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-reports.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/initial-setup.svg');
   }
   
-  #category-74 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-copy-email.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/shop-manager.svg');
   }
   
-  #category-23 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-conversations.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/products.svg');
   }
   
-  #category-230 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-productivity.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/orders.svg');
   }
   
-  #category-604 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-mobile-apps.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/user-subscriptions.svg');
   }
   
-  #category-234 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-integrations.jpg');
+  #category- {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/bookings-calendar.svg');
   }
   
   #category-1205 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-start-with-beacon.jpg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/coupons.svg');
   }
   
   #category-1358 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-messages.jpg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reports.svg');
   }
   
   #category-1211 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-live-chat.jpg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reviews.svg');
   }
   
   #category-41 {
-	background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-working-with-docs.jpg');
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/user-subscriptions.svg');
   }
   
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/support.svg');
+  }
+  
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/store-info.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/payments.svg');
+  }
+    #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/shipping.svg');
+  }
+  
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/taxes.svg');
+  }
+  
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/social-profile.svg');
+  }
+  
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/store-seo.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/emails.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-products.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-classes.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-subscriptions.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/place-an-order.svg');
+  }
+
+  #category-41 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-orders.svg');
+  }
+
   #category-126 {
-	background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-managing-docs.jpg);
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reviews-feedback.svg');
   }
   
   #category-217 {
-	background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-formatting-content.jpg);
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/favorites-lists.svg');
   }
-  
+    
+  #category-217 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-account-everyone.svg');
+  }  
+  #category-217 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-account-bakery.svg');
+  }  
+  #category-217 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/favorites-lists.svg');
+  }
+
   .nav-collapse .nav {
 	margin-top: 40px;
   }
