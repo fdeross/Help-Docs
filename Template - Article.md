@@ -8,14 +8,15 @@ Should explain the goal or end result that the user gets after reading the artic
 
 - [Section Title](#section-title)
 - [Common Questions](#common-questions)
-- [Heading level 2](#heading-level-2)
+- [Heading level 2 <Main heading>](#heading-level-2-main-heading)
+  - [Heading level 3](#heading-level-3)
 
   </p>
 </section>
 <br>  
 
 ## Section Title
-### Subsection Title
+#### Subsection Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br>
@@ -24,17 +25,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-
 KEY - DELETE BEFORE PUBLISHING ARTICLE
 Headings:
-## Heading level 2
+## Heading level 2 <Main heading>
 ### Heading level 3
-#### Heading level 4
+#### Heading level 4 <Secondary heading>
 ##### Heading level 5
+<!-- omit in toc --> Keeps the heading below from showing up in the TOC
 
 Bold: **Bold**
 Italics: *Italics*
+
+Images
+![alt text](imagesorce.fileextension =size)
+=xSIZE <for height only
+=SIZEx <for width only
+=SIZExSIZE <for both width and height
 
 Blockquote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore > magna aliqua.
@@ -66,4 +72,3 @@ Yellow: <section class="callout-yellow">
 <h3>This is a yellow callout</h3>
 <p>Just add class="callout-yellow". It's really that easy.</p>
 </section>
-

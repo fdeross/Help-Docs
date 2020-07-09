@@ -4,17 +4,22 @@ Should explain the goal or end result that the user gets after reading the artic
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-
 KEY - DELETE BEFORE PUBLISHING ARTICLE
 Headings:
-## Heading level 2
+## Heading level 2 <Main heading>
 ### Heading level 3
-#### Heading level 4
+#### Heading level 4 <Secondary heading>
 ##### Heading level 5
+<!-- omit in toc --> Keeps the heading below from showing up in the TOC
 
 Bold: **Bold**
 Italics: *Italics*
+
+Images
+![alt text](imagesorce.fileextension =size)
+=xSIZE <for height only
+=SIZEx <for width only
+=SIZExSIZE <for both width and height
 
 Blockquote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore > magna aliqua.

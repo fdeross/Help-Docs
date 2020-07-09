@@ -10,7 +10,7 @@ MANAGE *TOOL NAME*
 EXAMPLES
 
 ## Section Title
-### Subsection Title
+#### Subsection Title
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br>
@@ -19,17 +19,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-
 KEY - DELETE BEFORE PUBLISHING ARTICLE
 Headings:
-## Heading level 2
+## Heading level 2 <Main heading>
 ### Heading level 3
-#### Heading level 4
+#### Heading level 4 <Secondary heading>
 ##### Heading level 5
+<!-- omit in toc --> Keeps the heading below from showing up in the TOC
 
 Bold: **Bold**
 Italics: *Italics*
+
+Images
+![alt text](imagesorce.fileextension =size)
+=xSIZE <for height only
+=SIZEx <for width only
+=SIZExSIZE <for both width and height
 
 Blockquote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore > magna aliqua.
