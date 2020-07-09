@@ -11,15 +11,15 @@ Ordered List:
 
 <br>
 
-## Common Questions
+### Common Questions
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 KEY - DELETE BEFORE PUBLISHING ARTICLE
 Headings:
-## Heading level 2 <Main heading>
-### Heading level 3
-#### Heading level 4 <Secondary heading>
+## Heading level 2 - General Article Sections
+### Heading level 3 - Same font attributes but more padding than h2
+#### Heading level 4 - Subsections within sections
 ##### Heading level 5
 <!-- omit in toc --> Keeps the heading below from showing up in the TOC
 

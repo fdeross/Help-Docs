@@ -1,30 +1,31 @@
-#### Easily connect your Frosting shop to Stripe to start accepting payments.
+#### Easily connect your Frosting shop to Stripe and start accepting payments.
+<br>
 
-### Step 1  
+## Step 1. Shop Manager
 
 Hover over the **User** icon on the top menu bar.  Click on **Shop Manager**
 
-![Shop Manager Top Bar](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Menu+%3E+Click+Shop+Manager.png =650x)
+![Shop Manager Top Bar](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Menu+%3E+Click+Shop+Manager.png =650x)
 
-## Step 2  
+## Step 2. Settings
 
 From the Shop Manager, click on **Settings**.
 
-![Hover Settings](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Hover+Settings.png =500x)
+![Hover Settings](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Hover+Settings.png =500x)
 
-## Step 3  
+## Step 3. Payment
 
 Click on **Payment**.
 
-![Click on Payment](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Hover+Settings%3EPayment.png =500x)
+![Click on Payment](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Hover+Settings%3EPayment.png =500x)
 
-## Step 4  
+## Step 4. Connect with Stripe
 
 Click on the **Connect with Stripe** button.
 
-![Click Connect with Stripe](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Payment+Connect+with+Stripe.png =550x)
+![Click Connect with Stripe](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Payment+Connect+with+Stripe.png =550x)
 
-## Step 5  
+## Step 5. Create or log in to an account
 
 You will be taken to Stripe to create or to log in to an existing account.
 
@@ -32,22 +33,18 @@ You will be taken to Stripe to create or to log in to an existing account.
 
 Once you have filled out all of the details, click **Authorize access to this Account** and you will be connected to Frosting and will be able to accept payments!
 
-![Stripe Authorize access to this account](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Payment+Connect+with+Stripe+-+Authorize+Account.png =550x)
+![Stripe Authorize access to this account](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Payment+Connect+with+Stripe+-+Authorize+Account.png =550x)
 
-#### Login to an existing account  
+#### Log in to an existing account  
 
 If you already have an account you can click on **Sign in**.
 
-![Stripe Login](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Payment+Connect+with+Stripe+-+Sign+Into+Stripe+Account.png =550x)
+![Stripe Login](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Payment+Connect+with+Stripe+-+Sign+Into+Stripe+Account.png =550x)
 
-## Step 6
+### Congratulations! Your Frosting Shop is now connected with Stripe!
 
-Click on **Payment**.
+## To disconnect your Stripe account
 
-![Click on Payment](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Hover+Settings%3EPayment.png)
+Click on the **Disconnect** button.
 
-## Step 7
-
-Click on **Payment**.
-
-![Click on Payment](https://frosting-public-helpdocsfiles.s3.amazonaws.com/Help+Scout+Screenshots/Hover+Settings%3EPayment.png)
+![Disconnect Stripe](https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Screenshots/Payment+Disconnect+Stripe.png =550x)

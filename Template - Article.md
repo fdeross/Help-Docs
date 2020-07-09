@@ -7,29 +7,29 @@ Should explain the goal or end result that the user gets after reading the artic
   <p>
 
 - [Section Title](#section-title)
-- [Common Questions](#common-questions)
-- [Heading level 2 <Main heading>](#heading-level-2-main-heading)
-  - [Heading level 3](#heading-level-3)
+  - [Common Questions](#common-questions)
+- [Heading level 2 - General Article Sections](#heading-level-2---general-article-sections)
+  - [Heading level 3 - Same font attributes but more padding than h2](#heading-level-3---same-font-attributes-but-more-padding-than-h2)
 
   </p>
 </section>
 <br>  
 
-## Section Title
-#### Subsection Title
+## Section Title  
+#### Subsection Title  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <br>
 
-## Common Questions
+### Common Questions
 #### Lorem ipsum dolor sit amet, consectetur adipiscing elit?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 KEY - DELETE BEFORE PUBLISHING ARTICLE
 Headings:
-## Heading level 2 <Main heading>
-### Heading level 3
-#### Heading level 4 <Secondary heading>
+## Heading level 2 - General Article Sections
+### Heading level 3 - Same font attributes but more padding than h2
+#### Heading level 4 - Subsections within sections
 ##### Heading level 5
 <!-- omit in toc --> Keeps the heading below from showing up in the TOC
 
