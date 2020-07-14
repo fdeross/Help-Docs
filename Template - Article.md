@@ -2,16 +2,14 @@ Quick Description
 Should explain the goal or end result that the user gets after reading the article.  What gain are they getting?
 
 <br>
-<section class="callout-blue">
-  <h5>ON THIS PAGE</h5>
-  <p>
+<section class="index-list">
+  <h4>ON THIS PAGE</h4>
 
 - [Section Title](#section-title)
   - [Common Questions](#common-questions)
 - [Heading level 2 - General Article Sections](#heading-level-2---general-article-sections)
   - [Heading level 3 - Same font attributes but more padding than h2](#heading-level-3---same-font-attributes-but-more-padding-than-h2)
 
-  </p>
 </section>
 <br>  
 

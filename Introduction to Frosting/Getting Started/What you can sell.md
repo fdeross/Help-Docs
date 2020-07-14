@@ -1,11 +1,9 @@
-<section class="callout-blue">
-  <h5>ON THIS PAGE</h5>
-  <p>
+<section class="index-list">
+  <h4>ON THIS PAGE</h4>
 
 - [Traditional Bakeries](#traditional-bakeries)
 - [Home Bakers](#home-bakers)
   
-  </p>
 </section>
 <br>  
 

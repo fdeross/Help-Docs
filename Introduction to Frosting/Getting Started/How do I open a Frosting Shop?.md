@@ -1,21 +1,16 @@
-! TODO
-Links - Terms of service, Questions to ask yourself, Bakery Sign Up Form, Shop Manager, add your payment information, create items, receive orders
-
 You can use Frosting to quickly build an online shop where new and existing customers can buy custom cakes, cookies, and sweet treats from your bakery.  This guide will give you an overview of the process that we use to open your Frosting shop.
 
 - **By the end of step 4:** Your online store will be set up.
 - **By the end of step 7:** You will be ready to take orders.
 
 <br>
-<section class="callout-blue">
-  <h3>ON THIS PAGE</h3>
-  <p>
+<section class="index-list">
+  <h4>ON THIS PAGE</h4>
 
 - [Before you start](#before-you-start)
 - [First steps](#first-steps)
 - [Launch your shop](#launch-your-shop)
 
-  </p>
 </section>
 <br>  
 
