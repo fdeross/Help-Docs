@@ -13,7 +13,7 @@ Should explain the goal or end result that the user gets after reading the artic
 </section>
 <br>  
 
-## Section Title  
+### Section Title  
 
 #### Subsection Title  
 
@@ -58,9 +58,17 @@ Ordered List:
 Numbered Detail List:
 <dl>
 <dt>1</dt>
-<dd>I call it luck. I care. So, what do you think of her, Han? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander.</dd>
+<dd>
+
+I call it luck. I care. So, what do you think of her, Han? She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander.
+
+</dd>
 <dt>2</dt>
-<dd>The Force is strong with this one. I have you now. Your eyes can deceive you. Don't trust them. I'm surprised you had the courage to take the responsibility yourself.</dd>
+<dd>
+
+The Force is strong with this one. I have you now. Your eyes can deceive you. Don't trust them. I'm surprised you had the courage to take the responsibility yourself.
+
+</dd>
 </dl>
 
 Callouts:

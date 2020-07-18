@@ -12,6 +12,8 @@
 ### Payment
 Stripe, our payment processor, charges your credit or debit card and sends the payment directly to the bakery.  
 
+Learn more: [How are payments handled on Frosting?](https://frosting.helpscoutdocs.com/article/131-how-are-payments-handled-on-frosting)
+
 <section class="callout-yellow">
 <h3>Never Fear!</h3>
 <p>If something goes wrong during the checkout process, you can click the Help button on the lower right of the screen to chat with Frosting Customer Support.</p>

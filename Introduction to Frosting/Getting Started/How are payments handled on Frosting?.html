@@ -2,7 +2,7 @@
     <html>
     <head>
         <meta charset="UTF-8">
-        <title>What payment methods does Frosting accept?</title>
+        <title>Payment Stages</title>
         <style>
 /* From extension zhuangtongfa.material-theme */
 
@@ -19,10 +19,18 @@
         
     </head>
     <body class="vscode-light">
-        <h3 id="what-payment-methods-does-frosting-accept">What payment methods does Frosting accept?</h3>
-<p>We accept all major forms of credit and debit cards including: Visa, MasterCard, American Express, Discover, Diners Club, JCB, and UnionPay.  Transactions are processed by our payment processor Stripe in US Dollars.</p>
+        <p>Frosting uses a payment system that processes payments in a way that is flexible and secure for bakeries and customers.</p>
+<h3 id="payment-stages">Payment Stages</h3>
+<ol>
+<li>Frosting calculates the total order price, taxes, and fees.</li>
+<li>Customers enter their debit or credit card information during checkout and complete their order.</li>
+<li>Frosting sends the order and payment information to Stripe.</li>
+<li>Stripe sends the service fee and sales tax to Frosting and the remainder (minus card processing fees) goes to the bakery.</li>
+</ol>
+<h3 id="what-payment-methods-does-frosting-accept">What payment methods does Frosting accept?</h3>
+<p>We accept all major forms of credit and debit cards including: Visa, MasterCard, American Express, Discover, Diners Club, JCB, and UnionPay.  Transactions are processed by our payment processor <a href="stripe.com">Stripe</a> in US Dollars.</p>
 <h3 id="when-will-i-receive-my-payout">When will I receive my payout?</h3>
-<p>The first payout for new Stripe accounts may take up to 7 days to process and hit your account.  This delay allows Stripe to mitigate some credit risks and to conduct anti-money laundering checks.  Subsequent payouts will be deposited in your account within 24 hours to 3 days depending on your Frosting sales volume.  You can always check your payout schedule by visiting <a href="stripe.com">Stripe</a> and logging into your account.</p>
+<p>Payouts for bakeries are automatically deposited into the bank account you entered when you set up your Stripe account.  The first payout for new Stripe accounts may take up to 7 days to process and hit your account.  This delay allows Stripe to mitigate some credit risks and to conduct anti-money laundering check on accounts.  Subsequent payouts will be deposited in your account within 24 hours and up to 3 days depending on your sales volume.  You can always check your payout schedule by visiting <a href="stripe.com">Stripe</a> and logging into your account.</p>
 
     </body>
     </html>

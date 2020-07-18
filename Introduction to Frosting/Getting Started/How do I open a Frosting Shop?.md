@@ -33,9 +33,9 @@ However, when selling on Frosting you're required to follow any laws that apply 
 
 ### Step 2. Get prepared  
 
-Read and think over the [Questions before you start selling](https://frosting.helpscoutdocs.com/article/139-questions-before-you-start-selling?preview=5f0f3d0d2c7d3a10cbaab82d) article. Answering some basic questions will make the entire process of opening your store much easier.
+Read and think over the [Questions before you start selling](https://frosting.helpscoutdocs.com/article/139-questions-before-you-start-selling) article. Answering some basic questions will make the entire process of opening your store much easier.
 
-Create a Frosting account if you don't have one.  [Click Here](https://www.frostingmarket.com/my-account/)
+Create a Frosting account if you don't have one: [Create a Frosting Account](https://www.frostingmarket.com/my-account/)
 
 ### Step 3. Create your Frosting Shop
 
