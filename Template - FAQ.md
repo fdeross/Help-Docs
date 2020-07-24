@@ -33,15 +33,32 @@ Ordered List:
 2. Item 2
 
 Callouts:
-On this page: <section class="index-list">
-Blue:   <section class="callout-blue">
-Gray:   <section class="callout">
-Green:  <section class="callout-green">
-Red:    <section class="callout-red">
-Yellow: <section class="callout-yellow">
+Callouts:
+<section class="index-list">
+<h4>ON THIS PAGE</h4>
+
+</section>
+
+<section class="callout-blue">
+<h3>ℹ Info</h3>
+<p> </p>
+</section>
+
+<section class="callout">
+
+
+<section class="callout-green">
+<h3>💡 Tip</h3>
+<p> </p>
+</section>
+
+<section class="callout-red">
+<h3>⚠ Warning</h3>
+<p> </p>
+</section>
 
 <section class="callout-yellow">
-<h3>This is a yellow callout</h3>
-<p>Just add class="callout-yellow". It's really that easy.</p>
+<h3>🗒 Note</h3>
+<p> </p>
 </section>
 
