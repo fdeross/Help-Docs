@@ -18,22 +18,27 @@ Product images are the anchor of your product pages and ultimately determine whe
 
 The main image that belongs to a product.  This image will be shown first on the shop pages and is the large image shown on the product page.  The Featured Image should be forward-facing and show the entire product.
 
+#### Adding a Featured Image
+
 ### Image Gallery
 
 The Image Gallery is for additional images that you use to show the product from different angles, up-close details, variations, or product scale.
 
+#### Adding photos to the Image Gallery 
+
+
 ### How does this look?
 
 #### Shop Manager - Products
-![Edit Product - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Images.png =550x)
+![Edit Product - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Images.png)
 
-![Images Example](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Images%20%28example%29.png =550x)
+![Images Example](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Images%20%28example%29.png)
 
 #### Product Page
-![Product Listing - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Page/Single%20Product%20-%20First%20Section%20-%20Highlights.png =550x)
+![Product Listing - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Page/Single%20Product%20-%20First%20Section%20-%20Highlights.png =650x)
 
 #### Shop Page
-![Shop Page - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Archive/Product%20Archive%20-%20Product%20Tiles%20-%20Highlight.png =550x)
+![Shop Page - Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Archive%20Page/Product%20Archive%20-%20Product%20Tiles%20-%20Highlight.png)
 
 ### Why are Product Images important?
 

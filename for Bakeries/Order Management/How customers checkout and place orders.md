@@ -1,0 +1,1 @@
+How customers checkout and place orders

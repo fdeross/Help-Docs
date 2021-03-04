@@ -1,0 +1,24 @@
+Easily connect your Frosting shop to Stripe and start accepting payments.
+
+## Connect to Stripe
+
+1. From the **Shop Manager** go to the **Settings** page.
+
+![Shop Manager - Settings](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Shop%20Manager%20-%20Sidebar%20-%20Settings.png =x300)
+
+2. Click on the **Payments** tab.
+
+![Settings Payments](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Settings/Shop%20Manager%20-%20Settings%20tabs%20-%20Payments.png)
+
+3. Click the **"Connect with Stripe"** button.
+
+![Connect with Stripe](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Settings/Shop%20Manager%20-%20Settings%20-%20Payments%20-%20Connect%20with%20Stripe.png)
+
+4. You will be taken to Stripe to create or to log in to an existing account. Stripe will automatically connect to your Frosting account and you will be ready to take your first order!
+
+## Disconnect your Stripe account
+
+Click on the **Disconnect** button on the **Payments** tab.
+
+![Disconnect Stripe](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Settings/Shop%20Manager%20-%20Settings%20-%20Payments%20-%20Disconnect%20Stripe.png)
+

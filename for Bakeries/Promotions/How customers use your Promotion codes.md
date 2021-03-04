@@ -1,0 +1,1 @@
+How customers use your Promotion codes

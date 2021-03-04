@@ -1,0 +1,1 @@
+Offering free delivery for orders over a certain amount

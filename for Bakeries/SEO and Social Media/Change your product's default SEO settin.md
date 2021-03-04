@@ -1,0 +1,1 @@
+Change your product's default SEO settings

@@ -1,0 +1,1 @@
+Create a link to a specific category or keyword.
