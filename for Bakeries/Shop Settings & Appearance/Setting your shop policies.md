@@ -1,1 +1,0 @@
-Setting your shop policies

@@ -1,0 +1,1 @@
+We recognize that there are a lot of reasons why a business owner might sell their business.  That is why we take account transfers on a case-by-case basis for retail bakeries.  We are unable to transfer accounts for home bakers due to quality control issues.

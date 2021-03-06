@@ -956,12 +956,12 @@ body {
   #fullArticle .index-list li {
 	padding-left: 25px;
 	font-size: 14px;
+	width: 100%;
   }
   
   @media screen and (min-width: 1000px) {
 	#fullArticle .index-list li {
 	  float: left;
-	  width: 45%;
 	}
   }
   
@@ -970,7 +970,7 @@ body {
 	margin: 0;
 	padding: 8px 26px 0;
 	font-size: 13px;
-	font-weight: 500;
+	font-weight: 600;
 	letter-spacing: 0.7px;
   }
   

@@ -5,6 +5,7 @@ Get an overview of the 7 step process to add a new product on Frosting and how t
 
 - [To add a new product](#to-add-a-new-product)
 - [Edit an existing product](#edit-an-existing-product)
+- [What is required product information?](#what-is-required-product-information)
 
 </section>
 
@@ -75,3 +76,15 @@ All thats left is to click **Save Changes** at the bottom of the screen.  You wi
 2. Find the product you want to edit.
 3. Click **Edit** on the product listing.
 4. When you are done with your changes, click **Save Changes** at the bottom of the page.
+
+### What is required product information?
+
+ The required information to get your product active:
+
+- Featured Image
+- Title
+- Category
+- Product Type
+- Price
+
+Keep in mind this is the minimum information required. It is highly suggested that you fill in as much as you can and take advantage of options like Long Description, SKUs, and Booking.

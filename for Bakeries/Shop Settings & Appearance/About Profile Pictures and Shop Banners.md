@@ -1,1 +1,0 @@
-About Profile Pictures and Shop Banners

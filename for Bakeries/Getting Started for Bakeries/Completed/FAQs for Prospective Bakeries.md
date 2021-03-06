@@ -8,6 +8,7 @@ Here is a quick overview of FAQs some bakers have.
 - [What can you sell on Frosting?](#what-can-you-sell-on-frosting)
 - [What do bakeries control?](#what-do-bakeries-control)
 - [I'm worried about getting overwhelmed with orders](#im-worried-about-getting-overwhelmed-with-orders)
+- [Are there any requirements to join?](#are-there-any-requirements-to-join)
 - [How do I sign up?](#how-do-i-sign-up)
 - [When do I get paid?](#when-do-i-get-paid)
 
@@ -102,6 +103,13 @@ This is a common concern many bakers have. We know you can only handle a certain
 - **Max future dates to order:** Set how far in the future you are willing to take orders for each product.
 - **Stock Management:** You can set the exact amount of orders that you will accept for each product.
 - **Order Confirmation:** Bookable products can be set so that you can approve each order before the customer is charged.
+
+## Are there any requirements to join?
+
+- Be based in the United States
+- Have a bank account
+- Have verifiable baking or decorating experience
+- Completed all the registrations and obtained the licenses and permits required in your local jurisdiction.
 
 ## How do I sign up?
 

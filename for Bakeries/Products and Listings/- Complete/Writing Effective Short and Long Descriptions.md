@@ -86,13 +86,18 @@ The Long Description is the text below Buy Box and above Customer Reviews on the
 
 ![Long Description](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Page/Single%20Product%20-%20Second%20Section%20-%20Highlights.png =550x)
 
+<section class="callout-green">
+<h3>💡 Tip</h3>
+<p>Spend a little extra time and write a solid Long Description that you can just copy and paste on all your product listings!</p>
+</section>
+
 ### Long Description Recommendations <!-- omit in toc --> 
 
 - Long Descriptions can be shared between similar items throughout your store.
 - Get your first item's Long Description perfect then use that to copy and paste to new items.
 - Include as much information about your item or business as you think the customer needs to make an informed decision.
 - Listings with more information do better on SEO.
-- You can even add a links for things like your location or phone number.  When customers are on their phones this will bring up Google Maps or Apple Maps or start a call to your phone.
+- You can even add links for things like your location or phone number.  When customers are on their phones this will bring up Google Maps or Apple Maps or start a call to your phone.
 - Ideas for Long Description sections: About Your Bakery (biography), Quality Statement, Pickup and Delivery Instructions, Storage Information, Allergy Warnings, Selection of Customer Reviews, or Serving Suggestions.
 
 ## Long Description Examples
