@@ -26,10 +26,19 @@ You may have more than one answer to each question depending on the item's Produ
 
 ## Figure out your 'Order Window'
 
-The **Order Window** is the time between the **Minimum order notice** and **Maximum order ahead time**.  For example, you might want a minimum 24 hour notice but don't want to take any orders more than 90 days in advance.  Super easy and you can set this for each product!
+The **Order Window** is the time between the **Minimum order notice** and **Maximum order ahead time**.  For example, you might want a minimum 24 hour notice but don't want to take any orders more than 30 days in advance.
 
-- How much lead time do you need between when a customer places an order and when the order is ready for pickup/delivery?  Lot's of your items won't be on hand for immediate pickup. You need time to bake and decorate them. We call this the **Minimum order notice** and customers won't be able to place an order before this time.
-- How far in the future do you want customers to be able to order? This can vary from category to category. For Wedding cakes, you might want to take orders a year in advance, but you probably don't want someone ordering cookies more than 4-6 months in advance.  This is called the **Maximum order ahead time**.
+It is super easy to set up and you get to customize the order window for each product!
+
+![Min and Max Booking](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Item%20Specifics%20-%20Booking%20-%20Min%20and%20Max.png)
+
+##### Minimum order notice
+
+How much time do you need between when a customer places an order and when the order is ready for pickup/delivery? Lot's of your items won't be on hand for immediate pickup. You need time to bake and decorate them. We call this the **Minimum order notice** and customers won't be able to place an order before this time.
+
+##### Maximum order ahead time
+
+How far in the future do you want customers to be able to order? This can vary from category to category. For Wedding cakes, you might want to take orders a year in advance, but you probably don't want someone ordering cookies more than 4-6 months in advance.  This is called the **Maximum order ahead time**.
 
 ## How will customers get their orders?
 

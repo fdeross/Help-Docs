@@ -1,1 +1,0 @@
-How to share a product to social media

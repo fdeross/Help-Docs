@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Before you begin</title>
+        <style>
+/* From extension zhuangtongfa.material-theme */
+
+
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <link rel="stylesheet" href="https://s3.amazonaws.com/helpscout.net/docs/assets/5e910b5804286364bc983322/attachments/5ef3c7332c7d3a10cba98429/frostinghelpdocs.css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <br>
+<section class="index-list">
+  <h4>ON THIS PAGE</h4>
+<ul>
+<li><a href="#before-you-begin">Before you begin</a></li>
+<li><a href="#service-fee">Service Fee</a></li>
+<li><a href="#stripe-transaction-fee">Stripe transaction fee</a></li>
+<li><a href="#example">Example</a></li>
+</ul>
+</section>
+<br>  
+<h2 id="before-you-begin">Before you begin</h2>
+<p>There are several parts that make up fees on Frosting and Stripe.</p>
+<ul>
+<li><strong>Cost of Products</strong>: This is the base cost that a baker sets when creating an item.  It could be increased by Variations or quantity or it could be decreased by a sale price or Promotion.</li>
+<li><strong>Promotion</strong>: If you create a promo code and the customer uses it, this will decrease the price of the order or item.</li>
+<li><strong>Shipping</strong>: Pickups are free for customers but you might have other shipping costs for Local Delivery or mail shipping.</li>
+<li><strong>Tax</strong>: If your jurisdiction charges sales tax you will add this to your order.</li>
+<li><strong>Order Total</strong>: Product, shipping, and sales taxes.</li>
+<li><strong>Charged Amount</strong>: Order total plus Frosting's Service fee.  This is the amount passed to Stripe.</li>
+<li><strong>Payout</strong>: This is the amount that Stripe will deposit into your account.</li>
+</ul>
+<h2 id="service-fee">Service Fee</h2>
+<p>Let's break down how we come up with the Service Fee.</p>
+<h4 id="order-total">Order Total</h4>
+<p>Order Total = ((Cost of Products - Promotion) + Shipping) + Tax</p>
+<h4 id="charged-amount">Charged Amount</h4>
+<p>Customers pay a service fee for using Frosting.  This service fee ranges from 9 - 13% of the Total Price.</p>
+<p>Charged Amount = Order Total + Service Fee</p>
+<h4 id="bakery-commission">Bakery Commission</h4>
+<p>We want to help as many small business owners as we can so we are waving the commission till June 2021.  Normally bakery's get a 95% commission.</p>
+<h2 id="stripe-transaction-fee">Stripe transaction fee</h2>
+<p>Payout = (Charged Amount - 2.9%) - .30</p>
+<h2 id="example">Example</h2>
+<p>This looks complicated, so let's take an example.</p>
+<p>Let's say your bakery is here in Bentonville and you sell a cake for $25.  The customer wants local delivery which you charge $5 for. To further complicate things you are giving 10% off for your top customers.</p>
+<p>Cost of Products: $25<br>
+Promotion: -10%<br>
+Tax Rate: 9.5%<br>
+Shipping: $5<br>
+Service Fee: 9%</p>
+<p>Cost of Products - Promotion = A<br>
+$25 - 10% [$2.50] = $22.50</p>
+<p>A + Shipping = B<br>
+$22.50 + $5 = $27.50</p>
+<p>B + Tax = Order Total<br>
+$27.50 + 9.5% [$2.61] = $30.11</p>
+<p>Order Total + Service Fee = Charged Amount<br>
+$30.11 + 9% [$2.71] = $32.82</p>
+<p>Order Total = $30.11</p>
+<p>Charged Amount = $32.82</p>
+<h5 id="now-to-stripe-and-the-payout">Now to Stripe and the Payout</h5>
+<p>$32.82 - 2.9%</p>
+<p>($25 - 2.9% [.73])</p>
+<p>$24.27 - .30 = $23.97</p>
+<p>The bakery's payout would be $23.97</p>
+
+    </body>
+    </html>

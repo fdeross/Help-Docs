@@ -9,7 +9,7 @@ You can choose to hide your product listing from the Shop page by making it Priv
 
 1. From the **Shop Manager** go to **Products**.
 2. Click **Edit** on the product listing you want to hide.
-3. Scroll to the **General** tab under **Item Specifics**.
+3. Scroll to the **General** tab under **Listing Details**.
 4. Check the box next to **Private listing, hide this product from the catalog.**
 
 ### To Hide and Disable the product

@@ -7,9 +7,11 @@ To make it easier to navigate, the definitions below are shown in the same order
   <h4>ON THIS PAGE</h4>
 
 - [1. Product Images](#1-product-images)
-- [2. Product Details](#2-product-details)
-- [3. Product Tags & Keywords](#3-product-tags--keywords)
-- [4. Item Specifics](#4-item-specifics)
+- [2. Product Title and Category](#2-product-title-and-category)
+- [3. Descriptions](#3-descriptions)
+- [4. Design Options](#4-design-options)
+- [5. Product Tags & Keywords](#5-product-tags--keywords)
+- [6. Listing Details](#6-listing-details)
 - [Subscription Settings](#subscription-settings)
 - [Conclusion](#conclusion)
 
@@ -51,7 +53,7 @@ Example of a completed Product Image
 
 Learn More: [Product Images](https://frosting.helpscoutdocs.com/article/150-product-images)
 
-## 2. Product Details
+## 2. Product Title and Category
 
 ### Title<!-- omit in toc --> 
 
@@ -69,6 +71,8 @@ Learn More: [Product Titles](https://frosting.helpscoutdocs.com/article/149-prod
 Categories are the primary way to group similar products.
 
 ![Product Category](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Product%20Category.png =550x)
+
+## 3. Descriptions
 
 ### Short Description<!-- omit in toc --> 
 
@@ -90,23 +94,20 @@ Include all relevant information that a customer would need, marketing content, 
 An example of how a filled out Long Description looks.
 ![Long Description - Example](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Product%20Description%20%28example%29.png =550x)
 
-### Product Options<!-- omit in toc --> 
+## 4. Design Options
 
-You can allow customers to personalize items by adding tags that enable that option on the Product Page.
+You can allow customers to personalize items by adding 'Customization Tags' that enable that option on the Product Page.
 
 The Options are: Name, Age, Gender, Monogram, School, Colors, Background Color, Accent Color, Written Message, Design Request
 
-![Product Options](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Product%20Options.png =550x)
-
-Example:
-![Product Options - Example](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Product%20Options%20%28example%20-%20name%29.png =550x)
+![Product Options](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Products/SM%20-%20Products%20-%20Add%20Product%20-%20Design%20Options.png =550x)
 
 Here is what the options look like on the Product Page
 ![Product Page - Options](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Product%20Page/Single%20Product%20-%20All%20Product%20Options.png =550x)
 
-Learn more: [Product Options](https://frosting.helpscoutdocs.com/article/165-product-options)
+Learn more: [Design Options](https://frosting.helpscoutdocs.com/article/165-design-options)
 
-## 3. Product Tags & Keywords
+## 5. Product Tags & Keywords
 
 Tags and Keywords help customers quickly narrow down choices to exactly what they are looking for. They are shown as filters on the shop page.
 
@@ -158,7 +159,7 @@ Many customers have food allergies and require special diets and preparation.  Y
 
 Not all items are family or kid friendly.  We require that any item that contains sexually explicit, vulgar language, or drug themes be checked as **Yes**. By checking Yes, customers will have to select the Show Adult Content option in the results.
 
-## 4. Item Specifics
+## 6. Listing Details
 
 ### General <!-- omit in toc --> 
 
@@ -517,4 +518,4 @@ Adds a note on each order for that specific time slot.
 
 ## Conclusion
 
-There are a lot of options that you can select from and it can be overwhelming in the beginning.  Remember that you can easily search through this document by selecting **Edit > Find** on the top menu of of your broswer.  If we missed anything please let us know.
+There are a lot of options that you can select from and it can be overwhelming in the beginning.  Remember that you can easily search through this document by selecting **Edit > Find** on the top menu of of your browser.  If we missed anything please let us know.

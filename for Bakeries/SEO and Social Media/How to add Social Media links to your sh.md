@@ -1,1 +1,0 @@
-How to add Social Media links to your shop page

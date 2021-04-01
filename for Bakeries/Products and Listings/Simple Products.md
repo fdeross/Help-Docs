@@ -15,7 +15,7 @@ Simple Products cover the vast majority of any products you may sell.
 
 ### When to use Simple Products
 
-If you have a item that you don't want to offer a bunch of customizations for then simple products is your best bet.  Keep in mind Simple Products do not have variable options. You can still offer free [Personalization Options](https://frosting.helpscoutdocs.com/article/165-product-options) to customers.
+If you have an item that you don't want to offer a bunch of customizations for then simple products is your best bet.  Keep in mind Simple Products do not have variable options. You can still offer free [Personalization Options](https://frosting.helpscoutdocs.com/article/165-product-options) to customers.
 
 #### Examples
 

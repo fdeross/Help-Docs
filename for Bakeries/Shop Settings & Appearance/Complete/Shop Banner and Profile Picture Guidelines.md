@@ -4,6 +4,7 @@ Frosting has three image types that you as a baker should be aware of: Shop Bann
 <section class="index-list">
   <h4>ON THIS PAGE</h4>
 
+- [Before you begin](#before-you-begin)
 - [Shop Banner](#shop-banner)
 - [Profile Picture](#profile-picture)
 - [Standards](#standards)
@@ -14,18 +15,22 @@ Frosting has three image types that you as a baker should be aware of: Shop Bann
 </section>
 <br>  
 
+## Before you begin
+
+#### Shop Banner and Profile Pictures on the Shop Page
+
+![Banner and Profile Images](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Bakery%20Shop%20Page/Bakery%20Shop%20Page%20-%20Banner%20and%20Profile%20Images.png)
+
 ## Shop Banner
 
-Every bakery has a banner image at the top of the Shop Page. The banner is used as a background for your logo, bakery name, and some bakery info.  The easiest way to create a banner is to use this free Canva template [Click Here](https://www.canva.com/design/play?category=tACFalPUeCU&type=TABQqsrpGTg) . Banners display at 100% width on all devices.
+Every bakery has a banner image at the top of the Shop Page. The banner is used as a background for your logo, bakery name, and some bakery info.  
 
-#### Shop Banner Guidelines
+The easiest way to create a banner is to use our FREE Canva template. This template is best viewed on a desktop computer. [**Frosting Shop Banner Template**](https://www.canva.com/design/DAEYYKtGLOI/EzKj5wksYUH5zarI8BSIIQ/view?utm_content=DAEYYKtGLOI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview).
 
-- Text overlays are not recommended.
-- Displays as a 4:1 ratio image.  If you use a larger image it will be cropped to the top of the image.
-- Minimum size is 1200 x 300px and the recommended size is 3360 x 840px.
-- Darker images show the overlay text better than light pictures.
-- Plain, less 'busy' images are less distracting to customers.
-- It's always a good idea to change your banner based on upcoming holidays.
+<section class="callout-yellow">
+<h3>🗒 Note</h3>
+<p>If you don't have a Canva account, you'll be asked to create one. Don't worry it's free.</p>
+</section>
 
 #### How to add or edit the Shop Banner
 
@@ -33,6 +38,16 @@ Every bakery has a banner image at the top of the Shop Page. The banner is used 
 2. Click on the **Branding** tab.
 3. If you don't have a Shop Banner click **Add Shop Banner**.
 4. If you are changing the Shop Banner, you must first click **Remove Shop Banner** then upload a new one.  
+
+#### Shop Banner Guidelines
+
+- Text overlays are not recommended.
+- Displays as a 4:1 ratio image.  If you use a larger image it will be cropped to the top of the image.
+- Banners display at 100% width on all devices.
+- Minimum size is 1200 x 300px and the recommended size is 3360 x 840px.
+- Darker images show the overlay text better than light pictures.
+- Plain, less 'busy' images are less distracting to customers.
+- It's always a good idea to change your banner based on upcoming holidays.
 
 <section class="callout-green">
 <h3>💡 Tip</h3>
@@ -43,18 +58,20 @@ Every bakery has a banner image at the top of the Shop Page. The banner is used 
 
 Your Profile Picture is shown on your Shop Page and is usually your bakery's logo.  If you are a home baker then a Facebook style profile pic will work too.
 
-#### Profile Picture Guidelines
-
-- Displays as a 1:1 ratio image.  If you use a larger image it will be cropped.
-- Minimum size is 200 x 200px, but a 400 x 400px picture is recommended.
-- In lieu of a logo, you can also upload a product photo or other branding image.
+We also created a FREE Canva Profile Picture template. This template is best viewed on a desktop computer. [**Frosting Profile Picture**](https://www.canva.com/design/DAEYYdB1uj0/b9Dfz64Snol-flt0egP5lw/view?utm_content=DAEYYdB1uj0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview)
 
 #### How to add or edit the Profile Picture
 
 1. Go to **Shop Manager > Settings**.
 2. Click on the **Branding** tab.
 3. If you don't have a Profile Picture click **Add Profile Picture**.
-4. If you are changing the Profile Picture, you must first click **Remove Profile Picture** then upload a new one.  
+4. If you are changing the Profile Picture, you must first click **Remove Profile Picture** then upload a new one.
+
+#### Profile Picture Guidelines
+
+- Displays as a 1:1 ratio image.  If you use a larger image it will be cropped.
+- Minimum size is 200 x 200px, but a 400 x 400px picture is recommended.
+- In lieu of a logo, you can also upload a product photo or other branding image.  
 
 ## Standards
 

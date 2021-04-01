@@ -223,112 +223,109 @@ body {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/community-standards.svg');
   }
   
-  #category- {
+  #category-116 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/initial-setup.svg');
   }
   
-  #category- {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/shop-manager.svg');
+  #category-204 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/the-shop-manager_v2.svg');
   }
   
-  #category- {
+  #category-38 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/products.svg');
   }
   
-  #category- {
+  #category-39 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/orders.svg');
   }
   
-  #category- {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/user-subscriptions.svg');
-  }
-  
-  #category- {
+  #category-43 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/bookings-calendar.svg');
   }
   
-  #category-1205 {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/coupons.svg');
+  #category-200 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/promotions_v2.svg');
   }
   
   #category-1358 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reports.svg');
   }
   
-  #category-1211 {
+  #category-81 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reviews.svg');
   }
   
-  #category-41 {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/user-subscriptions.svg');
+  #category-80 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/subscriptions.svg');
   }
   
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/support.svg');
   }
   
-  #category-41 {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/store-info.svg');
+  #category-161 {
+	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/shop-settings-appearance_v3.svg');
   }
 
-  #category-41 {
+  #category-177 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/payments.svg');
   }
-    #category-41 {
+  
+  #category-83 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/shipping.svg');
   }
   
-  #category-41 {
-	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/taxes.svg');
-  }
-  
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/social-profile.svg');
   }
   
-  #category-41 {
+  #category-178 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/store-seo.svg');
   }
-
-  #category-41 {
+  
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/emails.svg');
   }
 
-  #category-41 {
+  #category-163 {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-products.svg');
   }
 
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-classes.svg');
   }
 
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/example-subscriptions.svg');
   }
 
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/place-an-order.svg');
   }
 
-  #category-41 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-orders.svg');
   }
 
-  #category-126 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/reviews-feedback.svg');
   }
   
-  #category-217 {
+  #category-179 {
+	  background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/tips-tricks.svg');
+  }
+  
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/favorites-lists.svg');
   }
     
-  #category-217 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-account-everyone.svg');
   }  
-  #category-217 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/your-account-bakery.svg');
   }  
-  #category-217 {
+  #category- {
 	background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help+Scout+Icons/favorites-lists.svg');
   }
 
@@ -448,10 +445,9 @@ body {
   /* Search Hero */
   
   #docsSearch h1 {
-	color: #232A5C;
 	display: block;
 	font-size: 36px;
-	font-weight: 500;
+	font-weight: 600;
 	letter-spacing: -0.35px;
 	line-height: 55px;
 	margin: 0;
@@ -459,6 +455,14 @@ body {
 	position: relative;
 	text-align: center;
 	z-index: 2;
+  }
+  
+  #docsSearch .main-subheading {
+  text-align: center;
+  color: #333;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 8px;
   }
   
   #docsSearch {
@@ -482,7 +486,7 @@ body {
   @media screen and (max-width: 1024px) {
 	#docsSearch {
 	  height: 240px;
-	  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-left-mobile.png'), url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-right-mobile.png');
+	  background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Icons/Squiggles%20-%20Colorful%20left.png'), url('https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Icons/Squiggles%20-%20Colorful%20rigth.png');
 	  background-position: left bottom, right bottom;
 	  background-size: auto 270px, auto 270px;
 	  background-repeat: no-repeat, no-repeat;
@@ -502,7 +506,7 @@ body {
   
   @media screen and (min-width: 1025px) {
 	#docsSearch::before {
-	  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-left.jpg');
+	  background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Icons/heroillustration_shop.svg');
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	  bottom: 0;
@@ -511,13 +515,13 @@ body {
 	  position: absolute;
 	  left: 5%;
 	  top: 0;
-	  transform: translateX(-50%);
-	  width: 515px;
+	  transform: translateX(-42%);
+	  width: 495px;
 	  transition: left 0.2s;
 	}
   
 	#docsSearch::after {
-	  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-right.jpg');
+	  background-image: url('https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Icons/heroillustration_rocket.svg');
 	  background-repeat: no-repeat;
 	  background-size: cover;
 	  bottom: 0;
@@ -526,17 +530,18 @@ body {
 	  position: absolute;
 	  left: 95%;
 	  top: 0;
-	  transform: translateX(-50%);
-	  width: 515px;
+	  transform: translateX(-40%);
+	  width: 380px;
 	  transition: left 0.2s;
 	}
-  
+  /*
 	#contentArea::before {
 	  content: '';
 	  left: 50%;
 	  position: absolute;
 	  top: -208px;
-	  background: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-hero-illustration-bird.png) no-repeat;
+	  background: url(https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Icons/heroillustration_heart.png 
+	  ) no-repeat;
 	  height: 150px;
 	  width: 200px;
 	  background-size: contain;
@@ -545,7 +550,7 @@ body {
 	  transition: opacity 0.2s;
 	}
   }
-  
+*/
   @media screen and (min-width: 1025px) and (max-width: 1899px) {
 	#docsSearch {
 	  height: 360px;

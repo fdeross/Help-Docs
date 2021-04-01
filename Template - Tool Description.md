@@ -36,6 +36,19 @@ Images
 =SIZEx <for width only
 =SIZExSIZE <for both width and height
 
+Embedded Video like Youtube
+<br>
+<section class="video widescreen">
+<iframe src="https://www.youtube.com/embed/KDrj9wSncaY?start=212" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0">
+<br>
+<br>
+fasdf<br>
+Cariable<br>
+<br>
+asdflkjasdflkja
+</iframe>
+</section>
+
 Blockquote
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore > magna aliqua.
 

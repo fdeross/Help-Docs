@@ -10,5 +10,11 @@ Not everthing goes according to plan and sometimes you need to give a refund.  W
 
 4. Set the **quantity** of the product(s) that you want to refund.
 5. Click **Refund**.
-   
+
 This will send a notification to Frosting to process a refund.  It is helpful if you add a refund note to explain the situation.  We will review the refund request and process it. Customers will receive an email confirming the refund.  It may take 2-3 business days for Stripe to reverse the transaction.
+
+### Refund Request
+
+Once you submit a refund request you will see a new page titled **Refund Requests**. This page provides you with an overview of all your refunds and their statuses.
+
+![Refund Requests](https://ddxp4ty7t79c7.cloudfront.net/Help%20Scout%20Screenshots/Shop%20Manager/Refund%20Request/Shop%20Manager%20-%20Refund%20Request.png =550x)

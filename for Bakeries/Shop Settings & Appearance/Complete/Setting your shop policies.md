@@ -1,4 +1,4 @@
-It is important that customers know your business policies up front.  Your policies will be shown as a tab on all of your product pages. We recommend that you seek professional advice on your specific policies.
+It is important that customers know your business policies up-front.  Your policies will be shown as a tab on all of your product pages. We recommend that you seek professional advice on your specific policies.
 
 <br>
 <section class="index-list">
@@ -18,7 +18,7 @@ It is important that customers know your business policies up front.  Your polic
 
 You can add policies to 3 sections:
 
-- **Terms and conditions** - You can add any policies that you want customer to know up front. These can include: Order Changes, Allergy Warning, Marketing, or any other policy you have.
+- **Terms and conditions** - You can add any policies that you want customers to know up-front. These can include: Order Changes, Allergy Warning, Marketing, or any other policy you have.
 - **Pickup, Delivery, or Shipping Policy** - You can include an overview of the pickup process, delivery guidelines, or shipping info.
 - **Refund and Cancellation Policy** - If you choose to honor refund or cancellation requests, add the policy guidelines here. It helps to be as specific as possible with these policies.
 
@@ -32,7 +32,7 @@ You can add policies to 3 sections:
 
 <section class="callout-yellow">
 <h3>🗒 Note</h3>
-<p>Frosting has its own set of Terms, Conditions, and Policies. In the event of a conflict Frosting's policies will supercede a bakery's.</p>
+<p>Frosting has its own set of Terms, Conditions, and Policies that govern refunds and fairness towards customers.</p>
 </section>
 
 ## Example
@@ -52,7 +52,7 @@ We reserve the right to use pictures and reviews from your order for marketing a
 Our store is located at 110 N Main St. Bentonville, AR. Public parking is located at the back of the building. Once you arrive, let one of our associates know that you have a pickup order.
 
 **Deliveries**
-We have a $10 delivery fee for all orders under $100. We provide delivery to locations within 15 miles of our store. Your order will be delivered to the address listed on checkout. Please be sure to include any special instructions that we may need in the Order Notes on checkout. The delivery fee is non refundable.
+We have a $10 delivery fee for all orders under $100. We provide delivery to locations within 15 miles of our store. Your order will be delivered to the address listed on checkout. Please be sure to include any special instructions that we may need in the Order Notes on checkout. The delivery fee is non-refundable.
 
 ### Refund and Cancellation Policy
 

@@ -1,8 +1,0 @@
-You can easily refer your favorite bakery or home baker by sending them the link below!
-
-<p>
-	<a href="sms:&amp;body=Frosting helps bakeries like yours sell online. Check it out: https://www.frostingmarket.com/sell-on-frosting/">Click to send a text</a>
-</p>
-<p>
-	<a href="mailto:?subject=Checkout Frosting&amp;body=Frosting helps bakeries sell online. Check it out: https://frostingmarket.com/sell-on-frosting" target="_blank" rel="noopener noreferrer">Click to send an email</a>
-</p>

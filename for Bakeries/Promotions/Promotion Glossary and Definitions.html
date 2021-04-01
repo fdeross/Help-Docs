@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Add Promotion</title>
+        <style>
+/* From extension zhuangtongfa.material-theme */
+
+
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        
+        <style>
+.task-list-item { list-style-type: none; } .task-list-item-checkbox { margin-left: -20px; vertical-align: middle; }
+</style>
+        <link rel="stylesheet" href="https://s3.amazonaws.com/helpscout.net/docs/assets/5e910b5804286364bc983322/attachments/5ef3c7332c7d3a10cba98429/frostinghelpdocs.css">
+        <script src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <p>A glossary of all the definitions that apply to Promotions</p>
+<br>
+<section class="index-list">
+  <h4>ON THIS PAGE</h4>
+<ul>
+<li><a href="#add-promotion">Add Promotion</a></li>
+<li><a href="#general">General</a></li>
+<li><a href="#usage-restrictions">Usage restrictions</a></li>
+<li><a href="#usage-limits">Usage limits</a></li>
+</ul>
+</section>
+<br>  
+<h2 id="add-promotion">Add Promotion</h2>
+<h3 id="promo-code-">Promo Code <!-- omit in toc --></h3>
+<p>This is what your customers will enter on checkout to apply the promotion.  This code must be unique across all bakeries on Frosting. If you run into problems try adding your bakery's name or random numbers.</p>
+<h3 id="promotion-description-">Promotion Description <!-- omit in toc --></h3>
+<p>This is for your records only. You can use this as a note to remind you about what the promotion is for.</p>
+<h2 id="general">General</h2>
+<h4 id="discount-type">Discount Type</h4>
+<ul>
+<li><strong>Fixed Discount</strong> - a set dollar amount off the product</li>
+<li><strong>Percentage Discount</strong> - a percentage off the product</li>
+<li><strong>Sign Up Fee Discount</strong> - Subscriptions only - a set dollar amount off of the sign up fee for a subscription</li>
+<li><strong>Sign Up % Fee Discount</strong> - Subscriptions only - a percentage off of the sign up fee for a subscription</li>
+<li><strong>Recurring Product Discount</strong> - Subscriptions only - a set dollar amount off of the recurring subscription amount</li>
+<li><strong>Recurring Product % Discount</strong> - Subscriptions only - a percentage off of the recurring subscription amount</li>
+</ul>
+<h5 id="fixed-discount-example">Fixed Discount Example</h5>
+<p>For example, three (3) products @ $20 each with a coupon for $10 off applies a discount of $30.</p>
+<h5 id="percentage-discount-example">Percentage Discount Example</h5>
+<p>For example, if the cart contains three (3) products @ $20 each = $60, a Promotion for 10% off applies a discount of $6.</p>
+<h4 id="apply-to-all-my-products">Apply to all my products</h4>
+<p>Check the box to apply the discount to all of your products.</p>
+<section class="callout-yellow">
+<h3>🗒 Note</h3>
+<p>If you don't check this box you can restrict which products the promo will apply to under Usage restrictions. </p>
+</section>
+<h4 id="promotion-amount">Promotion amount</h4>
+<p>The fixed dollar amount or percentage that you want to discount the product by.</p>
+<h4 id="promotion-end-date">Promotion end date</h4>
+<p>The date that you want the promotion to end on</p>
+<h4 id="active-for-x-payments">Active for x payments</h4>
+<p>This applies to Recurring Product Discounts and % Discounts only</p>
+<p>This is not a required field for recurring promotions that are not limited. In order to have a promotion which applies for all recurring payments, leave this field blank. In order to limit the number of payments a promo code is active for, to make a limited promotion, fill in this field with a number.</p>
+<h2 id="usage-restrictions">Usage restrictions</h2>
+<h4 id="minimum-purchase-amount">Minimum purchase amount</h4>
+<p>Allows you to set the minimum subtotal needed to use the promotion.  Note: The sum of the cart subtotal + tax is used to determine the minimum amount.</p>
+<h4 id="maximum-purchase-amount">Maximum purchase amount</h4>
+<p>Allows you to set the maximum subtotal allowed when using the promotion.</p>
+<h4 id="individual-use-only">Individual use only</h4>
+<p>Check the box if you don’t want this promo code to be used in combination with other Promotions.  In other words, customers can't stack multiple promo codes.</p>
+<h4 id="exclude-sale-items">Exclude sale items</h4>
+<p>Check the box if you don’t want this promo code to apply to products on sale. Per-cart promo codes do not work if a sale item is added afterward.</p>
+<h4 id="products">Products</h4>
+<p>Products that the promotion will be applied to, or that need to be in the cart in order for the fixed or percentage discount to be applied.</p>
+<h4 id="exclude-products">Exclude Products</h4>
+<p>Products that the promo code will <strong>not</strong> be applied to, or that <strong>cannot</strong> be in the cart in order for the “Fixed discount” to be applied.</p>
+<h4 id="email-restrictions">Email Restrictions</h4>
+<p>Email address or addresses that can use a promo code. The email address(es) wil be verified against the customer’s billing email. You can include multiple email addresses if you separate them by a comma.</p>
+<h2 id="usage-limits">Usage limits</h2>
+<h4 id="usage-limit-per-promo-code">Usage limit per promo code</h4>
+<p>How many times a promo code can be used by all customers before being invalid. You would use this if you wanted to create a promo for the first 20 customers that use the code.</p>
+<h4 id="usage-limit-to-x-items">Usage limit to x items</h4>
+<p>How many items the promo code can be applied to before being invalid. This field is only used if there is one or more products that the promo code can be used with, and is configured under the Usage Restrictions.</p>
+<h4 id="usage-limit-for-customer">Usage limit for customer</h4>
+<p>How many times a promo code can be used by each customer before being invalid for that customer.</p>
+
+    </body>
+    </html>
