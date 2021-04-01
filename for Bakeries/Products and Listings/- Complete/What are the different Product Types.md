@@ -32,20 +32,20 @@ Learn more: [Simple Subscription](https://frosting.helpscoutdocs.com/article/167
 
 Learn more: [Variable Subscription](https://frosting.helpscoutdocs.com/article/167-subscriptions)
 
-**Virtual** - a product that doesn’t require shipping. For example, a service. Enabling this, disables all shipping related fields. A virtual product will also not trigger the shipping calculator in cart or checkout.  You might use this for a gift certificate for a future cake decorating class.
+**Virtual** - a product that doesn’t require shipping. For example, a service or a class. A virtual product will also not trigger the shipping calculator in cart or checkout.  You might use Virtual Products for a voucher for a future cake decorating class.
 
 Learn more: [Virtual Products](https://frosting.helpscoutdocs.com/article/168-virtual-products-like-classes)
 
 
 <section class="callout-blue">
 <h3>ℹ Info</h3>
-<p>To create a Virtual or Downloadable product, you must firt select either Simple Product or Simple Subscription as the Product Type.</p>
+<p>To create a Virtual or Downloadable product, you must first select either Simple Product or Simple Subscription as the Product Type.</p>
 </section>
 
 ### How do I change a listing's Product Type?
 
 1. Go to **Shop Manager > Products**.
 2. Click **Edit** on the product you want to change.
-3. Scroll down to **Item Specifics > Product Type**.
-4. Click the dropdown to and change the Product Type.
+3. Scroll down to **Listing Details > Product Type**.
+4. Click the dropdown and change the Product Type.
 5. Scroll to the bottom and click **Save Changes**.
